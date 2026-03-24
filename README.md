@@ -1,1 +1,1 @@
-# fake_news_with_log_reg
+# Logistic Regression and TF-IDF in Detecting Fake News
