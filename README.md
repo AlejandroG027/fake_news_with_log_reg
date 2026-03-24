@@ -20,6 +20,8 @@ This breif posters contains the following information:
 
 The data used in this study comes from the LIAR-PLUS dataset, built from fact-checking articles sourced from Politifact.com. Allegedly an independent, non-partisan, fact-checking website that evaluates the accuracy of claims made by U.S. politicians, political parties, and advocacy groups. It is run by journalists. Manually labeled data scraped from Politifact over a decade (2007 -2017) in timespan. 
 
+The primary language at use in this report is python.
+
 
 
 
